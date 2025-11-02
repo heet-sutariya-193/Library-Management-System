@@ -1,0 +1,101 @@
+book_id,title,author,copies
+1001,"Introduction to Computer Science","Rajesh Narayan",0
+1002,"Fundamentals of Electrical Engineering","Sunita Kapoor",0
+1003,"Mechanical Engineering Principles","Arvind Desai",0
+1004,"Biotechnology Fundamentals","Priya Choudhary",0
+1005,"Civil Engineering Handbook","Vikram Reddy",0
+1006,"Electronics: Theory and Practice","Mohan Iyer",0
+1007,"Advanced Mathematics","Kavita Sharma",0
+1008,"Quantum Physics","Jay Patel",0
+1009,"Organic Chemistry","Rahul Gupta",0
+1010,"Principles of Economics","Sanjay Singh",0
+1011,"The C Programming Language","Anjali Verma",0
+1012,"Data Structures and Algorithms","Neha Joshi",0
+1013,"Database Management Systems","Amit Trivedi",0
+1014,"Operating System Concepts","Deepak Malhotra",0
+1015,"Computer Networks","Nisha Rao",0
+1016,"Artificial Intelligence Basics","Rakesh Menon",0
+1017,"Machine Learning Fundamentals","Shalini Nair",0
+1018,"Clean Code Practices","Arjun Krishnan",0
+1019,"Design Patterns Explained","Preeti Chatterjee",0
+1020,"Python Programming Essentials","Vivek Bajaj",0
+1021,"JavaScript for Beginners","Ananya Reddy",0
+1022,"Head First Java","Kiran Deshpande",0
+1023,"Effective C++ Programming","Rajiv Mehra",0
+1024,"Computer Organization","Meena Srinivasan",0
+1025,"Compiler Design Basics","Suresh Nair",0
+1026,"Discrete Mathematics","Anil Kapoor",0
+1027,"Calculus Made Easy","Geeta Sharma",0
+1028,"Linear Algebra Applications","Rohit Verma",0
+1029,"Probability and Statistics","Pooja Joshi",0
+1030,"Quantum Mechanics","Ajay Patel",0
+1031,"Classical Physics","Nandini Rao",0
+1032,"Electrodynamics","Sanjay Gupta",4
+1033,"Thermodynamics Principles","Deepa Reddy",0
+1034,"Inorganic Chemistry","Vijay Chawla",3
+1035,"Physical Chemistry","Anjali Bhatia",4
+1036,"Biochemistry Essentials","Rahul Nair",2
+1037,"Molecular Biology","Shweta Iyer",3
+1038,"Genetics Fundamentals","Arun Khanna",4
+1039,"Cell Biology","Neha Malhotra",2
+1040,"Microbiology Basics","Rajeshwari Pillai",3
+1041,"Immunology Concepts","Priyanka Sharma",4
+1042,"Neuroscience Introduction","Amitabh Rao",2
+1043,"Cognitive Psychology","Nisha Trivedi",3
+1044,"Social Psychology","Karan Oberoi",4
+1045,"Abnormal Psychology","Shilpa Mehta",2
+1046,"Developmental Psychology","Vikram Chatterjee",3
+1047,"Clinical Psychology","Anita Desai",4
+1048,"Macroeconomics Theory","Rakesh Sinha",2
+1049,"Microeconomics Principles","Sonia Kapoor",3
+1050,"Econometrics Methods","Alok Nair",4
+1051,"Game Theory Applications","Nikhil Reddy",2
+1052,"International Trade","Meghna Patel",3
+1053,"Public Finance Management","Arjun Venkatesh",4
+1054,"Money and Banking Systems","Preeti Ranganathan",2
+1055,"Financial Accounting","Rajiv Malhotra",3
+1056,"Managerial Accounting","Anjali Srinivas",4
+1057,"Corporate Finance","Vivek Iyer",2
+1058,"Investment Strategies","Nandini Joshi",3
+1059,"Marketing Management","Sanjay Krishnan",4
+1060,"Consumer Behavior Analysis","Priya Nair",2
+1061,"Operations Management","Rahul Venkat",3
+1062,"Supply Chain Optimization","Anika Rao",4
+1063,"Strategic Management","Kiran Desai",2
+1064,"Organizational Behavior","Shweta Menon",3
+1065,"Human Resource Management","Arvind Sharma",4
+1066,"Business Law Essentials","Neha Gupta",2
+1067,"International Business","Rajesh Iyer",3
+1068,"Entrepreneurship Guide","Anjali Reddy",4
+1069,"Business Ethics","Vikram Nair",2
+1070,"Statistics for Management","Preeti Kapoor",3
+1071,"Quantitative Methods","Arjun Chatterjee",4
+1072,"Project Management","Nisha Patel",2
+1073,"Total Quality Management","Rakesh Rao",3
+1074,"Management Information Systems","Anil Sharma",4
+1075,"E-Commerce Fundamentals","Shalini Nair",2
+1076,"Digital Marketing Strategies","Rajiv Verma",3
+1077,"Social Media Marketing","Priya Srinivasan",4
+1078,"Public Speaking Skills","Arvind Joshi",2
+1079,"Technical Communication","Ananya Malhotra",3
+1080,"Creative Writing Basics","Kiran Reddy",4
+1081,"British Literature","Nikhil Kapoor",2
+1082,"American Literature","Shweta Iyer",3
+1083,"World Literature Classics","Rajeshwari Nair",4
+1084,"Literary Theory","Anjali Deshpande",2
+1085,"Ancient Indian History","Vikram Patel",3
+1086,"Medieval World History","Priya Rao",4
+1087,"Modern Indian History","Arjun Sharma",2
+1088,"European History","Nisha Verma",3
+1089,"Asian Civilization","Rahul Khanna",4
+1090,"African Studies","Anita Reddy",2
+1091,"Latin American Culture","Sanjay Nair",3
+1092,"Middle Eastern Politics","Preeti Iyer",4
+1093,"Art History","Karan Malhotra",2
+1094,"Indian Classical Music","Shilpa Rao",3
+1095,"Film Studies","Rajiv Chatterjee",4
+1096,"Western Philosophy","Anjali Kapoor",2
+1097,"Indian Philosophy","Vivek Sharma",3
+1098,"Political Science","Nandini Patel",4
+1099,"International Relations","Arvind Nair",53
+1100,"Public Administration","Priya Krishnan",3
