@@ -48,5 +48,4 @@ A comprehensive Java-based Library Management System that handles book borrowing
    ```bash
    javac -d .. *.java
 
-Run the Application:
-java -cp .. ioom_assi6.Main
+
